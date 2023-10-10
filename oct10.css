@@ -55,5 +55,10 @@ margin-left: 50px;
 
 .special-font{
     font-family: pacifico;
-    
+
+}
+
+.grid-content{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
 }
